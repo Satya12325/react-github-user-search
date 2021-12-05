@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: aliceblue;
+}
+.imgresponsive{
+  width: 10rem;
+  margin: 1rem;
+ 
+}
